@@ -1,3 +1,6 @@
+# This project requires Python 3.12.x
+#
+pmdarima
 ipyleaflet>=0.14.0
 ipywidgets>=7.7.1
 matplotlib>=3.7.0
@@ -12,4 +15,8 @@ scikit-learn
 seaborn>=0.12.2
 sqlalchemy>=2.0.38
 sympy>=1.10.1
+torch<2.6
+plotly-resampler
 xgboost
+statsmodels
+neuralprophet
